@@ -1,4 +1,4 @@
-export const database = [
+export let database = [
     {
         id: 1,
         name: "Sheriton Dallas Hotel",
